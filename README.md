@@ -1,5 +1,7 @@
 # Minimalist Flutter weather app
 
+Made with Flutter and OpenWeatherMap
+
 ## Pictures
 
 <div style="display: flex;">
